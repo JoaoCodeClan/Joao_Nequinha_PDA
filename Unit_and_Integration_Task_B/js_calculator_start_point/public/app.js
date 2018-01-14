@@ -32,7 +32,9 @@ window.onload = function(){
     calculator.clearClick();
     updateView();
   };
-  
+
+  console.log(calculator.runningTotal);
+
 
 
 }
